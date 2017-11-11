@@ -1,0 +1,154 @@
+
+body {
+
+
+	// background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+	 
+background: #bdc3c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-image: <img src="images/ash (5).jpg" alt="pavement">
+
+
+
+}
+
+
+header	{
+	
+    	background-color:#dbd6d4;
+    	width:100%;
+    	text-align:center}
+
+.c1{				position: relative;
+    				left: 500px;
+    				top: -50px;
+    				z-index: -1;
+    				
+						}
+
+.c2 {				border-style: groove;
+				width: 50%;
+				float: left;
+				margin: 0%;
+				text-align:center;}
+				
+.c3{				border-style: groove;
+				width: 45%;
+				float: right;
+				margin:0%
+				text-align:center;}
+				
+			
+			
+.c4, .c5, .c6{
+				width: 40%;
+				float: left;
+				margin: 1%;
+				margin-left: 2%;
+				border-style: groove;
+				clear:both;}
+				
+.c7 {				border-style: groove;
+				width:50%;
+				float:right;
+				margin-right: 2%;
+				margin-top: -34%;
+				clear:both;}
+h1 {
+	text-align: center;
+	color: yellow;
+	font-style: oblique;
+	font-size: 40px;
+}
+
+ul {
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 6px;
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	background-color:#dbd6d4;
+}
+
+li {
+	text-align: center;
+	text-decoration: none;
+	display: inline;
+	padding: 8px 16px;
+	
+}
+
+
+}
+
+a:link {
+	color: yellow;
+	text-decoration: none;
+}
+
+a:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	font-size: 150%;
+	background: red;
+	text-decoration: none;
+}
+
+a:active {
+	color: black;
+	text-decoration: none;
+}
+
+button {
+	position: fixed;
+	top: 0;
+	left: 0;
+	margin: 10px 8px 0;
+	padding: 5px;
+}
+
+h4 {
+	color: blue;
+}
+
+
+
+.bottom {position: relative;
+	left: 120px;
+	bottom: -137px;
+	text-align: center;
+	clear: both;
+	}
+	
+.bottom1 {position: relative;
+	left: 0px;
+	bottom: 0px;
+	text-align: center;
+	clear: both;
+	}
+	
+footer	{position:fixed;
+	 bottom:0px;
+	 width:100%;
+    	 text-align:center
+    		}
+    		
+    	h3,p,h2{text-align: center;}
+    	
+#image	      {
+		display: block;
+    		margin: auto;
+    		width: 25%;
+    				}
+    		
+
+  
+  
+  #A, #B, #C, #D, #E    { display: block;
+      		          margin: auto;
+    		          width: 25%;}
